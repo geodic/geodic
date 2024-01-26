@@ -1,4 +1,4 @@
-![name](https://github.com/geodic/geodic/blob/main/name%intro.gif)
+![I'm Advaith Gundu](intro.gif)
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning
 - 💬 Ask me about 
